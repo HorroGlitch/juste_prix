@@ -16,3 +16,9 @@ span{
   align-items:center;
   justify-content: center;
 }
+
+#random{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
